@@ -11,7 +11,6 @@
       textAlign: isHome ? 'center' : 'left'
         }"
     >
-      {{themeRoute.path}}
       <Content
           class="v-content"
       />
