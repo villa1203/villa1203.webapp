@@ -8,9 +8,10 @@
     <main
         class="v-layout__main"
         :style="{
-      textAlign: themeRoute.path === '/' ? 'center' : 'left'
+      textAlign: isHome ? 'center' : 'left'
         }"
     >
+      {{themeRoute.path}}
       <Content
           class="v-content"
       />
@@ -29,6 +30,12 @@ export default defineComponent({
   data() {
     return {
       themeRoute: useRoute(),
+    }
+  },
+
+  computed: {
+    isHome():boolean {
+      return this.themeRoute.path.length < 2
     }
   }
 
