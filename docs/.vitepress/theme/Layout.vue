@@ -34,6 +34,7 @@ export default defineComponent({
 
   computed: {
     isHome():boolean {
+      console.log(this.themeRoute.path.length)
       return this.themeRoute.path.length < 2
     }
   }
