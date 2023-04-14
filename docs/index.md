@@ -7,7 +7,7 @@ welcome :building_construction: website under construction
 
    
 
-La Villa1203 est une association d'artiste et créatifs fondée en 2022
-Appenti graphique et créatif
+La Villa1203 est une association d'artiste fondée en 2022
+Appenti graphique et créatif, elle réunit et accompagne artiste.x.s, designeurs, graphiste.x.s et illustrateur.e.x.s
 
 ![text alternatif](./Capture2023-04-14villa.png)
