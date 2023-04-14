@@ -9,6 +9,6 @@
 La Villa1203 est une association d'artiste fondée en 2022
 Appenti graphique et créatif, elle réunit et accompagne artiste.x.s, designeurs, graphiste.x.s et illustrateur.e.x.s
 
-![text alternatif](./Capture2023-04-14villa.png)
+![text alternatif](./Sans titre-home23-04-14.png)
 
 A suburban-looking house, with a tree, flower, or shrubs around it in the garden.
