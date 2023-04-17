@@ -6,7 +6,7 @@ website under construction :building_construction:
 
    
 
-La Villa1203 est une association d'artistes fondée en 2022.
+La Villa 1203 est une association d'artistes fondée en 2022.
 Appentis graphique et créatif, elle réunit et accompagne artiste.x.s, designeurs, graphiste.x.s et illustrateur.e.x.s
 
 
