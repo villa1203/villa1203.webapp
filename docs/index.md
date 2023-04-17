@@ -12,3 +12,5 @@ Appentis graphique et créatif, elle réunit et accompagne artiste.x.s, designeu
 
 
 A suburban-looking house, with a tree, flower, or shrubs around it in the garden.
+
+![text alternatif](./sanstitre-home23-04-14.png)
