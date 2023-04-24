@@ -17,9 +17,9 @@ www.heliosa.ch
 
 ### Hélio Rapide
 www.helio-rapide.ch
-Héliographie Girard
-Tèl. +41 22 320 84 66
-Email: girard@heliogirard.ch
+Héliographie Girard  
+Tèl. +41 22 320 84 66  
+Email: girard@heliogirard.ch  
 
 ### Unicopy
 www.unicopy.ch
@@ -46,11 +46,11 @@ www.molesonimpressions.ch
 www.inesa.ch
 
 ### Atelier Raynald Métraux
-Linogravure - Gravure sur bois -
-Taille douce - Lithographie
-Rue des Côtes-de-Montbenon 6
-1003 Lausanne
-021 311 16 66
+Linogravure - Gravure sur bois -  
+Taille douce - Lithographie  
+Rue des Côtes-de-Montbenon 6  
+1003 Lausanne  
+021 311 16 66  
 www.atelier-metraux.com
 
 
@@ -72,7 +72,7 @@ www.cricprint.ch
 www.newspaperclub.com
 
 ### Service en ligne
-PDF-to-Book
+PDF-to-Book  
 www.bookfactory.ch/fr/pdf-to-book
 
 
@@ -84,33 +84,33 @@ www.bookfactory.ch/fr/pdf-to-book
 ## Genève
 
 ### Au Bon Relieur
-Chemin des Coquelicots 5
-1214 Vernier– 022 341 10 15
+Chemin des Coquelicots 5  
+1214 Vernier– 022 341 10 15  
 www.aubonrelieur.com
 
 ### Finissimo
-Rue Eugene Marziano 17-21
-1227 Les Acacias – 022 300 21 68
+Rue Eugene Marziano 17-21  
+1227 Les Acacias – 022 300 21 68  
 www.finissimo-geneve.ch
 
 
 ### Atelier du relieur
-Rue de la Muse 1
-1205 Genève – 022 328 06 50
+Rue de la Muse 1  
+1205 Genève – 022 328 06 50  
 www.atelier-du-relieur-geneve.ch
 
 
 ## Lausanne
 
 ### Atelier du relieur
-Rue de la Pontaise 2
-1018 Lausanne – 021 646 17 17
+Rue de la Pontaise 2  
+1018 Lausanne – 021 646 17 17  
 www.atelierdurelieur.ch
 
 ### Atelier de reliure
-Mélanie Humair,
-côtes de Montbenon 6
-1003 Lausanne – 078 749 83 73
+Mélanie Humair,  
+côtes de Montbenon 6  
+1003 Lausanne – 078 749 83 73  
 www.atelierdereliure.ch
 
 
@@ -118,14 +118,14 @@ www.atelierdereliure.ch
 
 ### dlignes
 
-Reliure artisanale, Rue du Torrent 6
-1800 Vevey – 021 921 18 44
+Reliure artisanale, Rue du Torrent 6  
+1800 Vevey – 021 921 18 44  
 www.dlignes.ch
 
 
 ### Reliure des Planches
-E. Hinderer, Rue Industrielle 30
-1820 Montreux – 021 963 67 09
+E. Hinderer, Rue Industrielle 30  
+1820 Montreux – 021 963 67 09  
 www.reliuredesplanches.ch
 
 
@@ -133,10 +133,9 @@ www.reliuredesplanches.ch
 
 ## Atelier Richard
 
-www.atelier-richard.ch
+www.atelier-richard.ch  
+Instagram : atelier.richard  
 
-Instagram : atelier.richard
-
-ATELIER RICHARD
-Chemin de la Vendée, 2
-CH -1213 Petit-Lancy
+ATELIER RICHARD  
+Chemin de la Vendée, 2  
+CH -1213 Petit-Lancy  
