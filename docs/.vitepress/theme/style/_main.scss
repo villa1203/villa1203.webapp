@@ -16,52 +16,53 @@ a {
 }
 
 .is-list {
-  font-family: sans-serif;
-
-  h1, h2, h3, h4, h5, h6 {
-    position: relative;
-
-    > .header-anchor {
-      position: absolute;
-      left: 0;
-      transform: translate(-100%, 0);
-      padding-right: .5rem;
-    }
-  }
-
-  h1 {
-    font-size: 1rem;
-    line-height: 1rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-  }
-
-  h2 {
-    font-size: .75rem;
-    line-height: .75rem;
-    margin-top: 1.5rem;
-    margin-bottom: .75rem;
-  }
-
-  h3 {
-    font-size: .5rem;
-    line-height: .5rem;
-    margin-top: 1rem;
-    margin-bottom: .5rem;
-  }
-
-  p {
-    font-size: .5rem;
-    line-height: .5rem;
-    margin-top: 1rem;
-    margin-bottom: .5rem;
-  }
-
-  h3 + p {
-    margin-top: 0;
-  }
 
   .v-content {
+    font-family: sans-serif;
     padding-bottom: 50vh;
+
+
+    h1, h2, h3, h4, h5, h6 {
+      position: relative;
+
+      > .header-anchor {
+        position: absolute;
+        left: 0;
+        transform: translate(-100%, 0);
+        padding-right: .5rem;
+      }
+    }
+
+    h1 {
+      font-size: 1rem;
+      line-height: 1rem;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    h2 {
+      font-size: .75rem;
+      line-height: .75rem;
+      margin-top: 1.5rem;
+      margin-bottom: .75rem;
+    }
+
+    h3 {
+      font-size: .5rem;
+      line-height: .5rem;
+      margin-top: 1rem;
+      margin-bottom: .5rem;
+    }
+
+    p {
+      font-size: .5rem;
+      line-height: .5rem;
+      margin-top: 1rem;
+      margin-bottom: .5rem;
+    }
+
+    h3 + p {
+      margin-top: 0;
+    }
   }
 }
