@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  title: '🏡 villa1203',
   themeConfig: {
     siteTitle: '🏡 villa1203',
     nav: [
