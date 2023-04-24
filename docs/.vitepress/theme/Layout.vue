@@ -1,5 +1,10 @@
 <template>
-  <div class="v-layout">
+  <div
+      class="v-layout"
+      :class="{
+        'is-list': themeData.frontmatter.layout === 'list'
+      }"
+  >
 
     <main class="v-layout__nav">
       <app-nav></app-nav>
@@ -21,7 +26,7 @@
 <script lang="ts">
 import {defineComponent} from "vue"
 import AppNav from "../componants/AppNav.vue"
-import {useRoute} from "vitepress"
+import {useData, useRoute} from "vitepress"
 
 export default defineComponent({
   components: {AppNav},
@@ -29,6 +34,7 @@ export default defineComponent({
   data() {
     return {
       themeRoute: useRoute(),
+      themeData: useData(),
     }
   },
 

@@ -23,11 +23,6 @@ export default defineComponent({
       themeRoute: useRoute(),
     }
   },
-
-  mounted() {
-    console.log(this.themeData.theme)
-  }
-
 })</script>
 
 <style lang="scss" scoped>

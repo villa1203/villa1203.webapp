@@ -1,3 +1,7 @@
+---
+layout: list
+---
+
 Liste d'ateliers imprimeurs, relieurs, etc   
 Genève, Lausanne, Morges et Fribourg, Londres – Glasgow.
 
