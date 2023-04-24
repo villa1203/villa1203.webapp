@@ -2,9 +2,16 @@
   <div
       class="v-app-nav"
   >
-    <a
-        href="/"
-    >villa1203 {{themeRoute.path}}</a>
+    <div>
+      <a
+          href="/"
+      >villa1203</a>
+      <div
+          style="width: 0"
+      >
+        {{themeRoute.path}}
+      </div>
+    </div>
     <a
         v-for="item of themeData.theme.nav"
         :href="item.link"
@@ -31,10 +38,16 @@ export default defineComponent({
   font-size: .5rem;
   line-height: .5rem;
   display: flex;
+  align-items: flex-start;
 
-  > a {
+  > * {
     display: block;
     padding: .5rem;
+  }
+
+  > div {
+    display: flex;
+    flex-direction: column;
   }
 }
 </style>

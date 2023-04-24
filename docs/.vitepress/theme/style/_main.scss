@@ -15,6 +15,15 @@ a {
   color: inherit;
 }
 
+.v-content {
+
+  img {
+    display: block;
+    width: 100%;
+    position: relative;
+  }
+}
+
 .is-list {
 
   .v-content {
